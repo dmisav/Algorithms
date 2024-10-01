@@ -1,5 +1,10 @@
 using System;
 
+/*
+Time Complexity: O(n), where n is the number of elements in the array. The entire array is iterated over only once, making it very efficient.
+Space Complexity: O(1), since we only use a constant amount of extra space.
+*/
+
 class Program
 {
     static void Main()
